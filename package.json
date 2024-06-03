@@ -12,6 +12,6 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^latest"
+    "puppeteer": "22.10.0"
   }
 }
